@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PCOptimizerServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf372735569341ed204becbf5c97870d21629c54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1817a6a58e423836e3b60d00635562a5275def09")]
 [assembly: System.Reflection.AssemblyProductAttribute("PCOptimizerServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PCOptimizerServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

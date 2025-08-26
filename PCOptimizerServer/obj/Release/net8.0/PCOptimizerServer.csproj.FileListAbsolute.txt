@@ -170,3 +170,4 @@ C:\Users\wyses\source\repos\PCOptimizerServer\PCOptimizerServer\bin\Release\net8
 C:\Users\wyses\source\repos\PCOptimizerServer\PCOptimizerServer\bin\Release\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\wyses\source\repos\PCOptimizerServer\PCOptimizerServer\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\wyses\source\repos\PCOptimizerServer\PCOptimizerServer\obj\Release\net8.0\PCOptimizerServer.sourcelink.json
+C:\Users\wyses\source\repos\PCOptimizerServer\PCOptimizerServer\bin\Release\net8.0\Properties\web.config
