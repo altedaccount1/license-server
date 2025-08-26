@@ -1,0 +1,6 @@
+@PCOptimizerServer_HostAddress = http://localhost:5101
+
+GET {{PCOptimizerServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
